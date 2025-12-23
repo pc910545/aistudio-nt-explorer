@@ -1,0 +1,7 @@
+{
+  "name": "Northern Taiwan Explorer",
+  "description": "A bilingual guide to Northern Taiwan's best spots and eats, powered by AI to match your personality and preferences.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
